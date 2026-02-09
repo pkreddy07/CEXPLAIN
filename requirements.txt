@@ -1,0 +1,5 @@
+libclang
+faiss-cpu
+sentence-transformers
+rich
+pytest
