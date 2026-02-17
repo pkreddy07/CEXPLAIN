@@ -1,4 +1,5 @@
 libclang
+clang
 faiss-cpu
 sentence-transformers
 rich
